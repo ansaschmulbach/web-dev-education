@@ -1,0 +1,47 @@
+* {
+    margin : 12px;
+}
+
+#bigTitle {
+    color : rgb(150, 150, 100);
+    text-decoration: underline;
+}
+
+#wdbLink:hover {
+    color : rosybrown;
+    font-weight: bold;
+}
+
+.article {
+    font-size: smaller;
+    font-family: sans-serif;
+    color: aquamarine;
+}
+
+.articleName {
+    font-family: Helvetica;
+    background-color: bisque;
+    width: 100px;
+}
+
+.nested:hover {
+    position: relative;
+    background-color: cadetblue;
+    width:100px;
+}
+
+.parent {
+    text-align: center;
+    font-size: medium;
+    text-decoration: underline;
+}
+
+p1, h3 {
+    color: brown;
+    font-size: x-small;
+}
+
+.listItem {
+    margin-bottom: 30px;
+    font-weight: lighter;
+}
