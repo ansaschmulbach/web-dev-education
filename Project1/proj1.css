@@ -1,0 +1,115 @@
+* {
+    box-sizing: border-box;
+}
+
+#main {
+    margin-block-start: 50px;
+    margin-block-end: 40px;
+    font-family: "Snell Roundhand";
+    font-weight: lighter;
+    text-align: center;
+    font-size: 60px;
+}
+
+table,td, th {
+    margin-left: 6px;
+    margin-right: 6px;
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+
+p {
+    margin-top: 12px;
+    padding: 4px;
+}
+
+.article-header {
+    margin-block-start: 26px;
+    margin-block-end: 28px;
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 30px;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 98%;
+}
+
+.nav {
+
+
+    font-family: Arial;
+    font-weight: bold;
+    font-style: normal;
+    padding-left: 25px;
+    text-align: start;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin: 0px;
+
+}
+
+#politics {
+    background-color: burlywood;
+}
+
+#technology {
+    background-color: aqua;
+}
+
+#local {
+    background-color: lightseagreen;
+}
+
+#opinion {
+    background-color: dodgerblue;
+}
+
+#sports {
+    background-color: mediumpurple;
+}
+
+
+a {
+    text-decoration: none;
+    color: darkslategray;
+}
+
+.nav:hover {
+    text-decoration: underline;
+}
+
+#links {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+
+    display: flex;
+    flex-direction: column;
+    justify-items: center;
+}
+
+#links > li {
+    flex: 1;
+}
+
+#last-box {
+    padding: 0;
+    margin: 0;
+
+}
+
+.side-headline, .center-headline {
+    padding: 4px;
+    border-top: 3px solid black;
+    border-bottom: 3px solid black;
+    vertical-align: top;
+}
+
+.side-headline {
+    width: 25%;
+}
