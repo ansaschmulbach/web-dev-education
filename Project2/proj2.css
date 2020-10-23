@@ -1,0 +1,65 @@
+
+body {
+    height: 600px;
+    width: 400px;
+    margin: 0;
+}
+
+.row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    height:16.6%;
+    background-color: black;
+}
+
+#display {
+    width: 100%;
+    color: darkgrey;
+    font-family: monospace;
+    background-color: black;
+    text-align: end;
+    align-self: center;
+    font-size: 50px;
+    padding-right: 5px;
+}
+
+
+.numbers, .operator, #backspace {
+    width:24.5%;
+    margin-bottom: 0.5%;
+}
+
+button {
+    height:100%;
+    font-size: 30px;
+}
+
+.greys button {
+    width: 100%;
+    background-color: darkgrey;
+}
+
+.greys button:hover {
+    background-color: lightgray;
+}
+
+#clear {
+    width: 50%;
+}
+
+#zero {
+    width: 75%;
+}
+
+.operator button {
+    width: 100%;
+    background-color: darkgoldenrod;
+    color: lightgray;
+}
+
+.operator button:hover {
+    background-color: burlywood;
+}
+
+
