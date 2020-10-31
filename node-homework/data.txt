@@ -1,0 +1,20 @@
+Title: The Pipe Nebula
+url: https://apod.nasa.gov/apod/image/2008/pipenebula_rc3_1024.jpg
+date: 2020-08-07
+copyright: Jose Mtanous
+Title: The Origin of Elements
+url: https://apod.nasa.gov/apod/image/2008/Nucleosynthesis2_WikipediaCmglee_1080.jpg
+date: 2020-08-09
+copyright: undefined
+Title: Crescent Saturn
+url: https://apod.nasa.gov/apod/image/2008/CrescentSaturn_cassini_1080.jpg
+date: 2020-08-08
+copyright: undefined
+Title: Messier 20 and 21
+url: https://apod.nasa.gov/apod/image/2008/trifidnebulaM20M21_1024.jpg
+date: 2020-08-06
+copyright: Emanuele Petrilli
+Title: Perseids from Perseus
+url: https://apod.nasa.gov/apod/image/2008/NightOfThePerseids_Horalek_960.jpg
+date: 2020-08-10
+copyright: Petr Horálek
